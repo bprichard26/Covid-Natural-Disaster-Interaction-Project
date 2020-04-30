@@ -2,13 +2,23 @@ Add potential data sources for building our risk maps here
 
 Earthquake
 
+USGS Unified Hazards Tool: https://earthquake.usgs.gov/hazards/interactive/
+Documentation: https://earthquake.usgs.gov/hazards/interactive/documentation.php
+
+ScienceBase USGS Catalog: https://www.sciencebase.gov/catalog/
+Hazard Curves by Long/Lat: https://www.sciencebase.gov/catalog/item/5d559795e4b01d82ce8e3fef
 
 Climate - Flooding / Drought
 
 
+
+
 Hurricanes
+Hurricane Risk Index: https://www.arcgis.com/apps/Cascade/index.html?appid=8f6013fdba6445e9a8732ff6cab9cd1a
+National Storm Surge Hazard Maps: https://noaa.maps.arcgis.com/apps/MapSeries/index.html?appid=d9ed7904dbec441a9c4dd7b277935fad&entry=1
 
-
+Historical Hurricane Tracks: https://www.arcgis.com/home/item.html?id=9912047fca194a3caee1d3cc12a42c93
+Mixed Types Map: https://epa.maps.arcgis.com/apps/MapSeries/index.html?appid=852ca645500d419e8c6761b923380663
 
 Covid / SARS 
 
